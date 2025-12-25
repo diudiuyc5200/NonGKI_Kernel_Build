@@ -1,4 +1,4 @@
-name: Build Kernel Redmi Note 8Pro (MIUI12 A11) with KSU and SUSFS
+name: Build Kernel Note 8Pro (MIUI12 A11) with KSU and SUSFS
 on:
   workflow_call:
   workflow_dispatch:
